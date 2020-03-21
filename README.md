@@ -1,2 +1,4 @@
-# hack-md-notes
+# Notes
+
 Personal notes authored using HackMD 
+
