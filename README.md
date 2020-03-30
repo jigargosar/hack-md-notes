@@ -2,6 +2,6 @@
 
 Personal notes authored using HackMD 
 
-# WINDOWS KEYBOARD SHORTCUTS
+# Window Keyboard Shortcuts
 
-* Right Click / Context menu: Shift + F10
+* Right click; context menu: Shift + F10
